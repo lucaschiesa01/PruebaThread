@@ -5,7 +5,7 @@ public class Mostrador {
     private int numero;
 
     public Mostrador() {
-        numero = 0;
+        
     }
 
     public int getNumero() {
